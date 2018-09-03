@@ -1,0 +1,44 @@
+{
+  "companyName" : "QA Consulting",
+  "secretBase" : "Anchorage",
+  "team" : "Academy Trainers",
+  "trainers" : [
+    {
+      "name" : "Matt",
+	  "role" : "Trainer",
+	  "hobbies" : [],
+	  "techs" : []
+	  }
+    ,
+	{
+      "name" : "Dev",
+	  "role" : "Trainer",
+	  "hobbies" : [],
+	  "techs" : []
+	  }
+	  ,
+	  {
+      "name" : "John",
+	  "role" : "Training Manager",
+	  "hobbies" : [],
+	  "techs" : []
+	  }
+	  ,
+	  {
+      "name" : "Chris",
+	  "role" : "Trainer",
+	  "hobbies" : [],
+	  "techs" : []
+	  }
+	  ,
+	  {
+      "name" : "Tom",
+	  "role" : "Trainer",
+	  "hobbies" : [],
+	  "techs" : []
+	  }
+	  ]
+	  }
+	
+	
+    
